@@ -1,0 +1,15 @@
+/Users/jessicakearney/Desktop/ca-bookstore-final-jesica/bookstore-jkearney/bin/Debug/net7.0/bookstore-jkearney
+/Users/jessicakearney/Desktop/ca-bookstore-final-jesica/bookstore-jkearney/bin/Debug/net7.0/bookstore-jkearney.deps.json
+/Users/jessicakearney/Desktop/ca-bookstore-final-jesica/bookstore-jkearney/bin/Debug/net7.0/bookstore-jkearney.runtimeconfig.json
+/Users/jessicakearney/Desktop/ca-bookstore-final-jesica/bookstore-jkearney/bin/Debug/net7.0/bookstore-jkearney.dll
+/Users/jessicakearney/Desktop/ca-bookstore-final-jesica/bookstore-jkearney/bin/Debug/net7.0/bookstore-jkearney.pdb
+/Users/jessicakearney/Desktop/ca-bookstore-final-jesica/bookstore-jkearney/obj/Debug/net7.0/bookstore-jkearney.csproj.AssemblyReference.cache
+/Users/jessicakearney/Desktop/ca-bookstore-final-jesica/bookstore-jkearney/obj/Debug/net7.0/bookstore-jkearney.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessicakearney/Desktop/ca-bookstore-final-jesica/bookstore-jkearney/obj/Debug/net7.0/bookstore-jkearney.AssemblyInfoInputs.cache
+/Users/jessicakearney/Desktop/ca-bookstore-final-jesica/bookstore-jkearney/obj/Debug/net7.0/bookstore-jkearney.AssemblyInfo.cs
+/Users/jessicakearney/Desktop/ca-bookstore-final-jesica/bookstore-jkearney/obj/Debug/net7.0/bookstore-jkearney.csproj.CoreCompileInputs.cache
+/Users/jessicakearney/Desktop/ca-bookstore-final-jesica/bookstore-jkearney/obj/Debug/net7.0/bookstore-jkearney.dll
+/Users/jessicakearney/Desktop/ca-bookstore-final-jesica/bookstore-jkearney/obj/Debug/net7.0/refint/bookstore-jkearney.dll
+/Users/jessicakearney/Desktop/ca-bookstore-final-jesica/bookstore-jkearney/obj/Debug/net7.0/bookstore-jkearney.pdb
+/Users/jessicakearney/Desktop/ca-bookstore-final-jesica/bookstore-jkearney/obj/Debug/net7.0/bookstore-jkearney.genruntimeconfig.cache
+/Users/jessicakearney/Desktop/ca-bookstore-final-jesica/bookstore-jkearney/obj/Debug/net7.0/ref/bookstore-jkearney.dll
