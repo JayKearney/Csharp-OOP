@@ -11,6 +11,8 @@ public class Book
     private string author;
     private Genre genre;
     private double price;
+
+    private int year;
     private int copiesAvailable;
 
     public string Title
