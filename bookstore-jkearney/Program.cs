@@ -13,6 +13,8 @@ public class Book
     private double price;
 
     private int year;
+
+    private string publisher;
     private int copiesAvailable;
 
     public string Title
